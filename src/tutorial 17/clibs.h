@@ -1,0 +1,51 @@
+// UEFI From Scratch - ThatOSDev ( 2021 - 2022 )
+// https://github.com/ThatOSDev/C_UEFI
+
+#ifndef CLIBS_H
+#define CLIBS_H
+
+#define NULL (void*)0
+
+#define DECIMAL 10
+#define HEX     16
+
+void itoa(unsigned long int n, CHAR16 *buffer, int basenumber)
+{
+	unsigned long int hold;
+	int i, j;
+	hold = n;
+	i = 0;
+	
+	do{
+		hold = n % basenumber;
+		buffer[i++] = (hold < 10) ? (hold + '0') : (hold + 'a' - 10);
+	} while(n /= basenumber);
+	buffer[i--] = 0;
+	
+	for(j = 0; j < i; j++, i--)
+	{
+		hold = buffer[j];
+		buffer[j] = buffer[i];
+		buffer[i] = hold;
+	}
+}
+
+typedef unsigned long long     size_t;
+typedef unsigned char          uint8_t;
+
+size_t strlen(const char *str)
+{
+	const char *strCount = str;
+
+	while (*strCount++);
+	return strCount - str - 1;
+}
+
+void* memcpy(void* dst, const void* src, size_t size)
+{
+    for ( size_t i = 0; i < size; i++ )
+        ((uint8_t*) dst)[i] = ((const uint8_t*) src)[i];
+    return dst;
+}
+
+#endif // CLIBS_H

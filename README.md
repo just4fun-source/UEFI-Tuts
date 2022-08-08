@@ -3,7 +3,7 @@
 # MESSAGE TO ALL  
 Originally from my C Based EFI Tutorial series from scratch youtube channel.  
 
-I discovered that a complete rip-off of my former youtube channel has been re-uploaded to youtube, banner graphics and all. They even posted a link to my original github repo, but it didn't exist. So for the persons who subbed to that guy's channel, I am uploading this for them. I feel for those who were trying to learn from those videos, but had no code to learn from. However, the code is not guaranteed to be the same.  
+I discovered that a complete rip-off of my former youtube channel has been re-uploaded to youtube, banner graphics and all, without my permission. They even posted a link to this original github repo. However, the code is not guaranteed to be the same.  
 
 This source code is archived.  
  

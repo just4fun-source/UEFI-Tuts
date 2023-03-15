@@ -1,7 +1,5 @@
 # EFI for OS Development from scratch
 
-CONTACT : uefidev@protonmail.com  
-  
 # MESSAGE TO ALL  
 Originally from my C Based EFI Tutorial series from scratch youtube channel.  
 
@@ -9,8 +7,6 @@ I discovered that a complete rip-off of my former youtube channel has been re-up
 
 This source code is archived.  
  
-My new favorite quote "Don't push someone to the point that they don't care !"  
-
 So long, and thanks for the fish.  
 
 -- ThatOSDev  

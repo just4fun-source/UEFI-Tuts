@@ -1,5 +1,7 @@
 # EFI for OS Development from scratch
-
+  
+CONTACT : uefidev@protonmail.com  
+  
 # MESSAGE TO ALL  
 Originally from my C Based EFI Tutorial series from scratch youtube channel.  
 

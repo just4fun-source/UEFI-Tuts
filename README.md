@@ -35,7 +35,7 @@ So long, and thanks for the fish.
 
 # BUILD INSTRCUTIONS  
 **Linux, Mac, Windows**  
-[https://github.com/ThatOSDev/C_UEFI/blob/master/BUILD.md)  
+[https://github.com/ThatOSDev/UEFI-Tuts/blob/master/BUILD.md)  
 
 # READ THIS !!!
 - THINGS YOU SHOULD KNOW BEFORE STARTING OS DEVELOPMENT  

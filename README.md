@@ -2,7 +2,8 @@
   
 # WARNING !!!
 
-If you found my github from the youtube channel known as ThatOSDev Archive, THAT IS A SCAMMER.  
+If you found my github from the youtube channel known as ThatOSDev Archive, THAT IS A SCAMMER. Please UNSUBSCRIBE from his channel.    
+  
 These are my official contacts and youtube channel.  
   
 CONTACT : uefidev@protonmail.com  

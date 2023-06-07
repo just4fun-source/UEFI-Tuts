@@ -1,20 +1,14 @@
 # EFI for OS Development from scratch
   
-CONTACT : uefidev@protonmail.com  
+# WARNING !!!
 
+If you found my github from the youtube channel known as ThatOSDev Archive, THAT IS A SCAMMER.  
+These are my official contacts and youtube channel.  
+  
+CONTACT : uefidev@protonmail.com  
+  
 OFFICIAL YOUTUBE : https://www.youtube.com/@ThatOSDev  
   
-# MESSAGE TO ALL  
-Originally from my C Based EFI Tutorial series from scratch youtube channel.  
-
-I discovered that a complete rip-off of my former youtube channel has been re-uploaded to youtube, banner graphics and all, without my permission. They even posted a link to this original github repo. However, the code is not guaranteed to be the same.  
-
-This source code is archived.  
- 
-So long, and thanks for the fish.  
-
--- ThatOSDev  
-
 # NOTES  
 - All code has been tested as working against GCC 11.2.0. 
 - I am now officially done with the OSDev world. This is here for anyone at their own risk.  

@@ -1,4 +1,3 @@
-# Makefile
 CC        :=gcc
 CFLAGS    :=-Wall -Werror -m64 -mabi=ms -ffreestanding
 LFLAGS    :=-Wall -Werror -m64 -mabi=ms -nostdlib -shared -Wl,-dll -Wl,--subsystem,10 -e efi_main
